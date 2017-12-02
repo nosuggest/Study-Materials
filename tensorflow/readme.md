@@ -1,1 +1,1 @@
-# 香港大学tensorflow ppt
+# 香港科技大学tensorflow ppt
