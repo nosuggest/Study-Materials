@@ -3,36 +3,43 @@
 
 ### 1.UST_tensorflow：香港科技大学tensorflow入门资料
 应该是tensorflow非常好的入门资料之一了，简单明了，适合初学者
+
 难度系数：*
 必读指数：***
 
 ### 2.Matrix Analysis and Application
 应该我见过对矩阵讲解最通俗易懂的书，建议入门的同学看
+
 难度系数：***
 必读指数：**
 
 ### 3.Probabilistic_Graphical_Models
 非常好的一本概率图论的书，有点困难，建议老司机阅读
+
 难度系数：*****
 必读指数：*
 
 ### 4.Intro to Machine Learining
 最简单清晰的机器学习入门材料，xmind导图思维方式，20min左右可以走马观花的浏览一遍常见算法，非常适合初学者。
+
 难度系数：*
 必读指数：*****
 
 ### 5.Intro to Data Processing
 最简单清晰的数据处理入门材料，xmind导图思维方式，讲了很多构造数据过程中的恶心事，非常适合初学者。
+
 难度系数：*
 必读指数：*****
 
 ### 6.Basic Data Distribution
 最常见的数据分布理论材料的整理汇总，对于预处理数据过程中的数据分布把握以及在Paper阅读中的理论理解都有非常大的帮助。
+
 难度系数：***
 必读指数：***
 
 ### 7.Statistics Forecast and Decision-making
 最全的统计学的预测算法整理，对于非专业（量化、微观、股票...）等专业领域外的日常预测需求，应该是非常满足的了，也是初学者拓宽视野的非常好的一个方向。
+
 难度系数：**
 必读指数：***
 
