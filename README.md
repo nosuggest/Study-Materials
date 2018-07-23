@@ -1,5 +1,5 @@
 # Study-Materials
-网罗了机器学习、深度学习、统计分析、数学分析、矩阵相关的资料，来源于个人撰写、公司内部分享、大学课程教学笔记、私人购买，加入了个人的一些阅读笔记，希望对大家有帮助。
+网罗了机器学习、深度学习、统计分析、数学分析、矩阵相关的资料，来源于个人撰写、公司内部分享、大学课程教学笔记、私人购买，加入了个人的一些阅读笔记，希望对大家有帮助，如果需要代码支持，可以在公众号：ml_trip留言找我。
 
 ### 1.UST_tensorflow：香港科技大学tensorflow入门资料
 应该是tensorflow非常好的入门资料之一了，简单明了，适合初学者
@@ -61,3 +61,31 @@
 [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
 
 *Andrew Y. Ng系列属于行业标杆经典，但是我觉得缺少对应的python案例辅助大家上手，可以综合上面推荐的书一起看，真的是快速入门的神器。*
+
+### 10.Intro to Data Attention
+两种Attention机制的理解，包括最基础的Google出品的attention机制，山大出品的循环神经网络的attention机制，属于必定能提升模型效果的东西，只是更加耗时和性价比不稳定。
+
+难度系数：****
+
+必读指数：**
+
+### 11.利用Python进行数据分析
+最快速，全面，有效的学习python的书，可以说是比较经典的读物了，对于想学习python的人来说，必看的。
+
+难度系数：*
+
+必读指数：****
+
+### 12.Collaborative filtering based on symmetrical restricted Boltzmannmachines
+基于对称受限玻尔兹曼机的协同过滤算法，15年以前非常火的一个算法，协同过滤的升级版，效果稳定可期待，但是提升困难，可以做入门选择。
+
+难度系数：****
+
+必读指数：**
+
+### 13.Learning Piece-wise Linear Models from Large Scale Data for Ad Click Prediction(MLR)
+阿里盖坤出品的“先聚类，后分类”的lr升级模型，实现简单，效果提升也不算特别大，但是可以做tensorflow的入门。
+
+难度系数：*
+
+必读指数：***
